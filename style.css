@@ -83,6 +83,10 @@
         body {
             font-size: 10px;
         }
+        img {
+            position: relative;
+            margin-left: 200px;
+        }
     }
     
     @media screen and (max-width: 682px) {
